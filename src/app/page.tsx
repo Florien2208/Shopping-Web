@@ -1,6 +1,6 @@
 
 export default function Home() {
   return (
-    <main>E-Shop</main>
+    <main>E-Shop digital Marketing </main>
   );
 }
