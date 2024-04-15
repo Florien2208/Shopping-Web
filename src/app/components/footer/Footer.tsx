@@ -1,5 +1,5 @@
 const Footer = () => {
-    return ( <div>Footer</div> );
+    return ( <div>Footer page in dashboard</div> );
 }
  
 export default Footer;
