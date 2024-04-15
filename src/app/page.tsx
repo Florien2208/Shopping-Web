@@ -1,6 +1,6 @@
 
 export default function Home() {
   return (
-    <main>E-Shop digital Marketing Agency </main>
+    <div>E-Shop digital Marketing Agency </div>
   );
 }
