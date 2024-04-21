@@ -33,7 +33,7 @@ const Footer = () => {
               suscipit impedit minus ipsam, nihil sequi corporis? Ducimus sunt
               dolores officiis explicabo omnis.
             </p>
-            <p>&copy; {new Date().getFullYear()} E-Shop. All Right reserved </p>
+            <p>&copy; {new Date().getFullYear()} E-Shop. All Right reserved by Florien Bill Kennedy </p>
           </div>
           <FooterList>
             <h3 className="text-base font-bold mb-2">Follow Us</h3>
