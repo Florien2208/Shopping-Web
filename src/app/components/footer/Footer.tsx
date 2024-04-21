@@ -31,7 +31,7 @@ const Footer = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo
               tempore alias sunt ut eveniet consequuntur, incidunt animi,
               suscipit impedit minus ipsam, nihil sequi corporis? Ducimus sunt
-              dolores officiis explicabo omnis.
+             
             </p>
             <p>&copy; {new Date().getFullYear()} E-Shop. All Right reserved by Florien Bill Kennedy </p>
           </div>
